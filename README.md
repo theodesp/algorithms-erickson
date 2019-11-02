@@ -9,4 +9,5 @@ Solutions to the [Algorithms](https://github.com/jeffgerickson/algorithms) book 
    - [x] Bottles of Beer
    - [x] Lattice Multiplication
    - [x] Peasant Multiplication
+   - [x] Huntington-Hill method
 

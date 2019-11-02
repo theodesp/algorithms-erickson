@@ -6,5 +6,7 @@ import (
 )
 
 func main()  {
-	fmt.Println(chapter1.PeasantMultiplication(934, 314))
+	votes := []int{100000, 80000, 30000}
+	seats := 8
+	fmt.Println(chapter1.EqualProportions(votes, seats))
 }
