@@ -5,8 +5,8 @@ Solutions to the [Algorithms](https://github.com/jeffgerickson/algorithms) book 
 
 ### Chapters
 
-[] - Chapter 1
-    - [x] Bottles of Beer
-    - [x] Lattice Multiplication
-    - [x] Peasant Multiplication
+- [] **Chapter 1**
+   - [x] Bottles of Beer
+   - [x] Lattice Multiplication
+   - [x] Peasant Multiplication
 
